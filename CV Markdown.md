@@ -9,7 +9,7 @@ reconvertir dans la création et la conception éditoriale de sites Internet. Un
 ### Expériences professionnelles
  - **Juillet 2019/Janvier 2020** : _Stage developpeur web and system admin_ Chez [**e-Durable**](https://e-durable.ch)
   - **Janvier 2019/Juillet 2019** : _Stage developpeur web_ Chez [**Gaea21**](https://gaea21.org)
-  - **Octobre 2014 /Juin 2018** : Electromécanicien Chez [**ABB**](htpps://abb.com)
+  - **Octobre 2014 /Juin 2018** : Electromécanicien Chez [**ABB**](https://abb.com)
 ### Formations
 * **2019** :Diplome Webmaster Genève [**IFAGE**](https://ifage.ch)
 * **2003** : Bac Pro Mecsi Lycée Fernand Léger 
