@@ -11,7 +11,7 @@ reconvertir dans la création et la conception éditoriale de sites Internet. Un
   - **Janvier 2019/Juillet 2019** : _Stage developpeur web_ Chez [**Gaea21**](https://gaea21.org)
   - **Octobre 2014 /Juin 2018** : _Electromécanicien_ Chez [**ABB**](https://abb.com)
 ### Formations
-* **2019** :Diplome Webmaster Genève [**IFAGE**](https://ifage.ch)
+* **2019** :Diplome Webmaster Genève [**IFAGE**](https://www.ifage.ch)
 * **2003** : Bac Pro Mecsi Lycée Fernand Léger 
 ### Hobbies
 
